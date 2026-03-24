@@ -4,7 +4,7 @@
 
 &#127942; **Winner — Southwest MN Hacks**
 
-  **Author:** [github.com/Pascal69p](https://github.com/Pascal69p) [github.com/Saar0](https://github.com/Saar0)]
+  **Authors:** [github.com/Pascal69p](https://github.com/Pascal69p) & [github.com/Saar0](https://github.com/Saar0)
 
 ---
 
